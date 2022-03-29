@@ -1,0 +1,10 @@
+#* java -ea jump61.Main
+1 1
+1 1
+1 1
+new
+1 1
+1 1
+new
+dump
+quit

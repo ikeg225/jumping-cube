@@ -1,1 +1,1 @@
-# jumping-cube
+# Jumping Cube

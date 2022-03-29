@@ -1,0 +1,13 @@
+#* java -ea jump61.Main
+seed 24
+dump
+manual blue
+auto red
+3 3
+4 4
+dump
+5 5
+6 6
+dump
+quit
+
